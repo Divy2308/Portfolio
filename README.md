@@ -1,5 +1,7 @@
 # Divy Patel Portfolio
 
+**Live Demo:** [https://divy-patel-portfolio.vercel.app/](https://divy-patel-portfolio.vercel.app/)
+
 This repository contains the source code for Divy Patel's personal portfolio website. It is a Vite-based React and TypeScript project featuring animated sections, project highlights, a 3D character experience, and a contact section for showcasing work and skills.
 
 ## Features
