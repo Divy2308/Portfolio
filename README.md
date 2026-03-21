@@ -48,13 +48,8 @@ npm run preview
 
 ## Notes
 
-- The project uses `gsap-trial`. If you plan to use Club GSAP plugins in production, make sure your setup and licensing match GSAP's hosting requirements.
 - The 3D assets under `public/models/` are part of the portfolio experience and should be included when deploying.
 
 ## Preview
 
 ![Portfolio Preview](public/images/preview.png)
-
-## License
-
-This project is available under the [MIT License](LICENSE).
