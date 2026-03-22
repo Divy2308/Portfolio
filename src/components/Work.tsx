@@ -8,19 +8,19 @@ const projects = [
     title: "Synobiz Care",
     category: "Automation System",
     tools: "Python, Flask, SQL",
-    image: "/images/synobiz.png",
+    image: "/images/synobiz.webp",
   },
   {
     title: "Finance Tracker",
     category: "Financial App",
     tools: "React, Node.js, MongoDB",
-    image: "/images/finance tracker.png",
+    image: "/images/finance tracker.webp",
   },
   {
     title: "Interior Designer",
     category: "Portfolio Website",
     tools: "React, CSS, HTML",
-    image: "/images/interior designer.png",
+    image: "/images/interior designer.webp",
   },
 ];
 
